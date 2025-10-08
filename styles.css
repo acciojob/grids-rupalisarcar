@@ -16,21 +16,21 @@
 	border: 2px dotted rgb(38, 38, 43);
 }
     
-#firstRow{
+.r1c1{
 	background-color:teal;
 }
-#firstR_secCol{
+.r1c2{
 	background-color:thistle;
 }
-#secRfirstCol{
+.r2c1{
 	background-color: tomato;
 }
-#secRsecCol{
+.r2c2{
 	background-color:turquoise;
 }
-#thirdRFC{
+.r3c1{
 	background-color:violet;
 }
-#thirdRsc{
+.r3c2{
 	background-color: yellowgreen;
 }
